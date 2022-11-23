@@ -1,2 +1,2 @@
 # landing_page
-Flex Project: Landig Page
+Flex Project: Landing Page
